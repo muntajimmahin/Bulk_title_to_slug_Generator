@@ -2,4 +2,5 @@
 
 
 $pip install Django
+
 $pip install python-slugify
