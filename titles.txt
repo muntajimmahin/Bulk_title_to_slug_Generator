@@ -1,0 +1,964 @@
+Which of the following shift operations divide a signed binary number by 2 ?
+Normally digital computers are based on
+BCD stands for
+The basic circuit ECL supports the
+An adder-subtractor single unit can be designed using full adder and
+Which of the following is not a universal building block ?
+CARRY in half adder can be obtained using
+A NAND gate has inputs A and B. It's output is connected to the both of the inputs of another NAND gate. An equivalent gate for these two NAND gates is
+The operation which commutative but not associative is
+In which of the following gates, the output is 1 if and only if at least one input is 1?
+The inverter OR gate and AND gate are called decision-making elements because they can recognize some input _____ while disregarding others. A gate recognizes a word when its output is _____
+The functional difference between SR flip-flop and JK flip-flop is that
+With an RS latch a high S and low R sets the output to _____ ; a low S and a high R _____ the output to low.
+Flip-flop outputs are always
+A NOR gate has two or more input signals. All input must be _____ to get a high output.
+An inverter is also called a _____ gate.
+With a NAND latch a low R and a low S produce a _____ condition.
+The simplified form of the Boolean expression (X + Y + XY)(X + Z) is
+De Morgan's first theorem says that a NOR gate is equivalent to a bubbled _____ gate.
+A combinational logic circuit which is used when it is desired to send data from two or more source through a single transmission line is known as
+How many Flip-Flops are required for mod–16 counter?
+The digital logic family which has minimum power dissipation is
+Data can be changed from special code to temporal code by using
+A ring counter consisting of five Flip-Flops will have
+The speed of conversion is maximum in
+The gates required to build a half adder are
+If the input to T-flipflop is 100 Hz signal, the final output of the three T-flipflops in cascade is
+The device which changes from serial data to parallel data is
+A device which converts BCD to Seven Segment is called
+The access time of ROM using bipolar transistors is about
+The A/D converter whose conversion time is independent of the number of bits is
+A 4-bit synchronous counter uses flip-flops with propagation delay times of 15 ns each. The maximum possible time required for change of state will be
+Words having 8-bits are to be stored into computer memory. The number of lines required for writing into memory are
+In successive-approximation A/D converter, offset voltage equal to 1/2 LSB is added to the D/A converter’s output. This is done to
+How many flip flops are required to construct a decade counter
+Which TTL logic gate is used for wired ANDing
+The MSI chip 7474 is
+When the set of input data to an even parity generator is 0111, the output will be
+How many flip-flops are required to construct mod 30 counter
+The number of control lines for 16 to 1 multiplexer is
+The number of control lines for 32 to 1 multiplexer is
+The logic 0 level of a CMOS logic device is approximately
+How many select lines will a 32:1 multiplexer will have
+Which of following consume minimum power?
+ABCD - seven segment decoder / driver in connected to an LED display. Which segments are illuminated for the input code DCBA = 0001.
+How many flip-flops are required to produce a divide-by-32 device?
+A demultiplexer can be used as
+n' Flip flops will divide the clock frequency by a factor of
+If the clock input applied to a cascaded Mod-6 & Mod-4 counter is 48KHz. Than the output of the cascaded arrangement shall be of
+Logic gates with a set of input and outputs is arrangement of
+A flip-flop is a binary cell capable of storing information of
+A device/circuit that goes through a predefined sequence of states upon the application of input pulses is called
+A combinational logic circuit which sends data coming from a single source to two or more separate destinations is
+Advantage of synchronous sequential circuits over asynchronous ones is
+A basic AND gate consists of ______________inputs and an output.
+In the AND gate, the output is ‘High’ or gate is ‘On’ only if both the inputs are ______________.
+It is a simple combinational digital circuit built from logic gates
+It is used to subtract two inputs having more than one bit
+It is a circuit, which subtracts two inputs each of one bit
+It is the converse of decoding and contains 2^n (or fewer) input lines and n output lines
+It directs data from input to a selected output line
+It is a very useful combinational circuit used in communication systems.
+This converter deals with converting binary code to gray code
+It compares two n-bit values to determine whether one of them is greater or if they are equal.
+It is a circuit, which has a number of input lines and selection lines with one output line.
+It is a circuit, which can remember values for a long time or change values when required.
+It is a sequential circuit that cycles through a sequence of states.
+It is a counter where the flip-flops do not change states at exactly the same time, as they do not have a common clock pulse.
+It is a bi-directional counter capable of counting in either of the direction depending on the control signal
+In this logic, output depends not only on the current inputs but also on the past input values. It needs some type of memory to remember the past input values
+In a combinational circuit, each output depends entirely on the ________ inputs to the circuit.
+In ________________ circuit, the output depends on both the present and the past inputs.
+The steps required for the analysis of combinational circuits are
+Circuits that are more complex can be built using the __________ method.
+BCD-to-Excess-3 Code Conversion is a example of a ______________.
+The four common and useful MSI circuits are
+Decoders often come with an enable signal, so that the device is only activated when the enable E equals to ___________.
+When more than one input can be active, the priority ____________ must be used.
+A _________________ is a circuit, which can remember values for a long time or change values when required.
+A ________________ circuit is not suitable in the synchronous circuit design because of its transparency nature.
+There are________________ basic types of flip-flop based on clock trigger.
+The characteristic equation of any flip-flop describes the __________________ of the next state in terms of the present state and inputs.
+The normal data inputs to a flip-flop (D, S and R, J and K, T) are referred to as ________________ inputs.
+Asynchronous inputs, just like synchronous inputs, can be engineered to be ______________.
+___________ and Clear should not be 0 at the same time; otherwise, both the outputs will be 1, which is known as invalid state.
+Which table indicates the input conditions of the flip-flops necessary to cause all possible next state transitions of a flip-flop?
+When a circuit is self- correcting?
+A PLA consists of two-level____________ circuits on a single chip.
+In which of the following types of counters, the flip-flops do not change states at exactly the same time?
+The number of states through which the counter goes is also known as ____________.
+It contains an equal resistor or current source segment for each possible value of DAC output.
+The total current can be converted into the corresponding voltage by using a/an _______________.
+The number of resistors required for an N-bit DAC is 2N in the case of _____________.
+The characteristics of a DAC, which are generally specified by the manufacturers
+To start the conversion in successive approximation DAC the programmer sets the MSB to ___________ and all other bits to __________.
+The major block(s) of the dual- slope ADC
+A counter with 10 states
+In asynchronous flip-flop, ______________ and clear pin shows negation.
+It is a single input version of J-K flip-flop formed by tying both the inputs of J-K.
+In flip-flop, the ___________ arrow shows positive transition on the clock.
+Gated S-R latch is a combination of which latch and gate?
+Which of the following is the advantage of PLD over ICs?
+In a DAC, the possible number of digital input is __________.
+An n-bit register has a group of n flip-flops and some
+It does not have any external gate.
+A register used to provide data movements
+There are ___________ basic types of shift registers.
+This type of register accepts inputs data serially
+This type of register accepts inputs data simultaneously and output is also coming out parallel
+In this type of register, data can be shifted in either right or left direction by using control signal.
+In this type of counter, the complement of the output of the last stage of the shift register is fed back to the D input of the first state.
+In this type of counter, the output of the last stage is connected to the D input of the first stage.
+A device that exhibits two different stable states and functions as a memory element in a binary system is known as______________________ .
+The different types of flip-flops are_____, __________ and____________.
+The __________latch is an asynchronous flip-flop which can be constructed from two NAND gates connected back to back.
+Memory is a circuit, which is used to store ____________ information.
+A register that can be either static or dynamic
+Read Only Memory (ROM), as the name suggests, is meant only for __________information from it.
+Memory can be classified on the basis of the ______________ technology used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
