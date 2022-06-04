@@ -1,5 +1,4 @@
 from django.utils.text import slugify
-import csv
 
 a_file = open("titles.txt", "r")
 
